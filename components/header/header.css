@@ -1,5 +1,7 @@
 .header {
   background-color: #C9C9C9;
-  height: 40px;
+  height: 80px;
   width: 100%;
+  top: 0;
+  left: 0;
 }
