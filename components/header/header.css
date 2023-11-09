@@ -1,7 +1,12 @@
-.header {
+.container {
   background-color: #C9C9C9;
   height: 80px;
   width: 100%;
-  top: 0;
-  left: 0;
+}
+.contents {
+  padding-top: 20px;
+  padding-bottom:20px;
+  display: inline-block;
+  font-family: sofia;
+  font-size: 30px;
 }
