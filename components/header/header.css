@@ -10,4 +10,5 @@
   font-family: sofia;
   font-size: 30px;
   grid-template-columns: 1fr 2fr 1fr;
+  text-align: center;
 }
