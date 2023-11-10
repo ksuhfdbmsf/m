@@ -14,5 +14,4 @@ function onLoad() {
     </div>
   </div>`;
   document.getElementById("header").innerHTML = header;
-  alert("test");
 }
