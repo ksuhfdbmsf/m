@@ -4,11 +4,14 @@
   width: 100%;
 }
 .contents {
-  padding-top: 20px;
-  padding-bottom:20px;
+  padding-top: 10px;
+  padding-bottom:10px;
   display: grid;
   font-family: sofia;
   font-size: 30px;
-  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-columns: 1fr 3fr 1fr;
   text-align: center;
+}
+.column {
+  border-left: 2px solid black;
 }
