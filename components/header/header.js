@@ -1,7 +1,7 @@
 function onLoad() {
   var header = `
   <div class="container">
-    <div class="content">
+    <div class="contents">
       <p>A</p>
       <p>B</p>
       <h1>C</h1>
