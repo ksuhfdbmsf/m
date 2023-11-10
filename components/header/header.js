@@ -9,7 +9,7 @@ function onLoad() {
         <p>B</p>
       </div>
       <div class="column">
-        <h1>C</h1>
+        <p>C<p>
       </div>
     </div>
   </div>`;
