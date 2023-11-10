@@ -6,8 +6,7 @@
 
 <script>
   function onLoad() {
-    var header = "../components/header/header.html";
-    document.getElementById("header").innerHTML = "<object type='text/html' data='home.html'></object>";
+    document.getElementById("header").innerHTML = localStorage.getItem("header");
     alert("test");
   }
 </script>
@@ -18,6 +17,6 @@
     
   </div>
   <hr>
-  <p>test 4</p>
+  <p>test 5</p>
 </body>
 </html>
