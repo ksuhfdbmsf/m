@@ -1,10 +1,10 @@
 .container {
   background-color: #C9C9C9;
-  height: 80px;
+  height: 100px;
   width: 100%;
 }
 .contents {
-  padding-top: 10px;
+  padding-top: 5px;
   padding-bottom:10px;
   display: grid;
   font-family: sofia;
@@ -15,4 +15,5 @@
 }
 .column {
   border-left: 2px solid black;
+  height: 10px;
 }
