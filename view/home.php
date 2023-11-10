@@ -9,6 +9,6 @@
     echo "hello";
 ?>
   <hr>
-  <p>test 5</p>
+  <p>test 6</p>
 </main>
 </html>
