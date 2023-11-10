@@ -1,5 +1,5 @@
 function onLoad() {
-  var header = "<h1>Test</h1>";
+  var header = getElementById('headerData').innerHTML;
   document.getElementById("header").innerHTML = header;
   alert("test");
 }
