@@ -1,12 +1,5 @@
 function onLoad() {
-  var header = `
-  <div class="container">
-    <div class="content">
-      <p>A</p>
-      <p>B</p>
-      <h1>C</h1>
-    </div>
-  </div>`;
+  var header = "<h1>test</h1>";
   document.getElementById("header").innerHTML = header;
   alert("test");
 }
