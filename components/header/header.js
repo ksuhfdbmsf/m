@@ -3,7 +3,7 @@ function onLoad() {
   <div class="container">
     <div class="contents">
       <div>
-        <img src="../components/imgs/cat1.png" alt="..." width="20px" height="20px">
+        <img src="../components/imgs/cat1.png" alt="..." width="50px" height="50px">
       </div>
       <div class="column">
         <p>B</p>
