@@ -1,7 +1,14 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
 .container {
   background-color: #C9C9C9;
   height: 100px;
   width: 100%;
+  left: 0;
+  top: 0;
 }
 .contents {
   padding-top: 5px;
