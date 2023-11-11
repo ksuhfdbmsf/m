@@ -8,9 +8,6 @@
   grid-template-columns: 1fr 1fr 2fr;
   vertical-align: middle;
 }
-.linkContainer {
-  display: inline;
-}
 .links {
   visibility: hidden;
 }
@@ -25,7 +22,6 @@
   font-family: sofia;
   text-align: center;
   font-size: 20px;
-  display: inline;
   visibility: visible;
 }
 }
