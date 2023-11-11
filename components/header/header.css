@@ -9,9 +9,10 @@
   vertical-align: middle;
 }
 img {
-  height: 40px;
-  width: 40px;
-  border-radius: 20px;
+  height: 80px;
+  width: 80px;
+  border-radius: 40px;
+  vertical-align: middle;
 }
 .links {
   visibility: hidden;
@@ -19,6 +20,7 @@ img {
 .linkspan {
   padding-left: 10px;
   pading-right: 10px;
+}
 .search {
   font-size: 40px;
 }
