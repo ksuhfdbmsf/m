@@ -5,7 +5,7 @@
 }
 .contents {
   display: grid;
-  grid-template-columns: 1fr 1fr 2fr;
+  grid-template-columns: 2fr 1fr 1fr 1fr 2fr;
   vertical-align: middle;
 }
 img {
@@ -16,10 +16,6 @@ img {
 }
 .links {
   visibility: hidden;
-}
-.linkSpan {
-  padding-left: 10px;
-  pading-right: 10px;
 }
 .search {
   font-size: 40px;
