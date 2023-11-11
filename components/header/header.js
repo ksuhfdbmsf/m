@@ -7,11 +7,7 @@ function onLoad() {
       </div>
       <div class="links">
         <p>ABCDE</p>
-      </div>
-      <div class="links">
         <p>FGHIJ</p>
-      </div>
-      <div class="links">
         <p>KLMNO</p>
       </div>
       <div class="search">
