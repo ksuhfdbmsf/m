@@ -11,18 +11,18 @@
 .links {
   visibility: hidden;
 }
-@media only screen and (min-width: 400px) {
-.contents {
+@media only screen and (min-width: 300px) {
+contents {
   display: grid;
   grid-template-columns: 1fr 5fr 2fr;
   vertical-align: middle;
 }
-.links {
+links {
   border-left: 2px solid black;
   height: 50px;
   font-family: sofia;
   text-align: center;
-  font-size: 20px
+  font-size: 20px;
   display: inline-block;
 }
 }
