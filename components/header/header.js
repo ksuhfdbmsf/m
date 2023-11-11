@@ -6,10 +6,10 @@ function onLoad() {
         <img src="../components/imgs/cat1.png" alt="..." width="50px" height="50px">
       </div>
       <div class="links">
-        <p>ABCDE</p>
-        <p>FGHIJ</p>
-        <p>KLMNO</p>
-        <p>PQRST</p>
+        <p><span class="linkSpan">ABCDE</span><span class="linkSpan">FGHIJ</span><span class="linkSpan">KLMNO</span></p>
+      </div>
+      <div class="search">
+        <p>Search</p>
       </div>
     </div>
   </div>`;
