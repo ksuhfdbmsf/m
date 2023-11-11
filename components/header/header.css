@@ -1,6 +1,6 @@
 .container {
   background-color: #C9C9C9;
-  height: 100px;
+  height: 200px;
   width: 100%;
 }
 .contents {
@@ -11,13 +11,13 @@
 .links {
   visibility: hidden;
 }
-@media only screen and (min-width: 300px) {
-contents {
+@media only screen and (min-width: 400px) {
+.contents {
   display: grid;
   grid-template-columns: 1fr 5fr 2fr;
   vertical-align: middle;
 }
-links {
+.links {
   border-left: 2px solid black;
   height: 50px;
   font-family: sofia;
