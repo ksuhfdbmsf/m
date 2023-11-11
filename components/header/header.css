@@ -8,6 +8,9 @@
   grid-template-columns: 1fr 1fr 2fr;
   vertical-align: middle;
 }
+.linkContainer {
+  display: inline;
+}
 .links {
   visibility: hidden;
 }
