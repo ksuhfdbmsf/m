@@ -1,6 +1,6 @@
 .container {
   background-color: #C9C9C9;
-  height: 300px;
+  height: 100px;
   width: 100%;
 }
 .contents {
@@ -16,6 +16,9 @@ img {
 .links {
   visibility: hidden;
 }
+.linkspan {
+  padding-left: 10px;
+  pading-right: 10px;
 .search {
   font-size: 40px;
 }
