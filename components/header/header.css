@@ -1,33 +1,33 @@
-.container {
+.HDRcontainer {
   background-color: #C9C9C9;
   height: 100px;
   width: 100%;
 }
-.contents {
+.HDRcontents {
   display: inline-block;
   vertical-align: middle;
 }
-.logo {
+.HDRlogo {
   height: 80px;
   width: 80px;
   border-radius: 40px;
   vertical-align: middle;
   float: left;
 }
-.links {
+.HDRlinks {
   visibility: hidden;
 }
-.search {
+.HDRsearch {
   font-size: 40px;
   float: right;
 }
 @media only screen and (min-width: 800px) {
-.contents {
+.HDRcontents {
   display: grid;
   grid-template-columns: 1fr 5fr 2fr;
   vertical-align: middle;
 }
-.links {
+.HDRlinks {
   justify-content: space-evenly;
   font-family: sofia;
   text-align: center;
