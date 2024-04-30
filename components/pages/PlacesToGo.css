@@ -19,4 +19,5 @@
 }
 .Au:hover + .AuDropdown {
   display: block;
+  position: absolute;
 }
