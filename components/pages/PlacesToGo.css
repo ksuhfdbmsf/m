@@ -1,7 +1,11 @@
-.twoColumns {
+.clmnContainer {
   display: grid;
   grid-template-columns: 2fr 1fr;
   vertical-align: middle;
-  padding: 6px;
+  padding: 45px;
   background-color: powderblue;
+}
+.clmn {
+  vertical-align: center;
+  padding-top: 35px;
 }
