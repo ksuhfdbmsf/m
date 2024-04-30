@@ -7,6 +7,12 @@
   color: black;
   text-decoration: none;
   }
+  p {
+  font-family: "Nunito";
+  font-optical-sizing: auto;
+  font-weight: 2;
+  font-style: normal;
+  }
 }
 .padding {
   padding: 20px;
