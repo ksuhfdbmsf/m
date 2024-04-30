@@ -9,15 +9,20 @@
   vertical-align: center;
   padding-top: 35px;
   blackground-color: #ccffcc;
+  position: absolute;
 }
 .hoverBox {
   border-left: 6px solid #9900ff;
   padding-left: 4px;
+}
+.dropdown {
+  padding-left: 20px;
+  position: fixed;
+  z-index: 2;
 }
 .AuDropdown {
   display: none;
 }
 .Au:hover + .AuDropdown {
   display: block;
-  position: absolute;
 }
