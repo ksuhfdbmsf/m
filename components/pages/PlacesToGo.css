@@ -11,8 +11,8 @@
   blackground-color: #ccffcc;
 }
 .AuDropdown {
-  visibility: hidden;
+  display: none;
 }
 .Au:hover + .AuDropdown {
-  visibility: visible
+  display: block;
 }
