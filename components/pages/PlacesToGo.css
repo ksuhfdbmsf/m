@@ -13,6 +13,6 @@
 .AuDropdown {
   visibility: hidden;
 }
-.Au: hover + .AuDropdown {
+.Au:hover + .AuDropdown {
   visibility: visible
 }
