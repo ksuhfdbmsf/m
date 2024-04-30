@@ -10,6 +10,9 @@
   padding-top: 35px;
   blackground-color: #ccffcc;
 }
+.hoverBox {
+  border: 2px dotted black;
+}
 .AuDropdown {
   display: none;
 }
