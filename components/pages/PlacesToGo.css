@@ -1,8 +1,10 @@
 .general {
+  h1 {
   font-size: 30px;
   font-family: "Jersey 15", sans-serif;
   font-weight: 400;
   font-style: normal;
+  }
 }
 .padding {
   padding: 20px;
