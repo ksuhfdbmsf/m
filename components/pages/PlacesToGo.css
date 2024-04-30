@@ -3,6 +3,9 @@
   font-size: 90px;
   font-family: "Jersey 15", sans-serif;
   }
+  a {
+  text-decoration: none;
+  }
 }
 .padding {
   padding: 20px;
