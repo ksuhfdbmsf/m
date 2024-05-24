@@ -1,4 +1,3 @@
-var id;
-function prceBtn(element) {
-  element.style.backgroundcolor = red;
+function prceBtn(element, colour) {
+  element.style.background = colour;
 }
