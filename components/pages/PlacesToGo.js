@@ -1,4 +1,4 @@
 var id;
-function prceBtn() {
-  document.getElementById(id).innerHTML = "iuuhk";
+function prceBtn(element) {
+  element.innerHTML = "iuuhk";
 }
