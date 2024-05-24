@@ -28,9 +28,18 @@
   blackground-color: #ccffcc;
 }
 .prceBtn {
-  background-color: red;
+  background-color: blue;
   border: 3px solid black;
+  width: 20px;
+  height: 15px;
+  font-size: 15px;
 }
+.prceBtn:hover {
+  width: 22px;
+  height: 17px;
+  font-size: 17px;
+  }
+
 .hoverBox {
   border-left: 6px solid #9900ff;
   padding-left: 4px;
