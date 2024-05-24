@@ -27,6 +27,10 @@
   padding-top: 15px;
   blackground-color: #ccffcc;
 }
+.btnClmn {
+  display: flex;
+  justify-content: center;
+}
 .prceBtn {
   background-color: blue;
   border: 3px solid black;
@@ -38,7 +42,7 @@
 .prceBtn:hover {
   width: 165px;
   height: 45px;
-  font-size: 25px;
+  font-size: 23px;
   }
 
 .hoverBox {
