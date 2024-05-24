@@ -28,7 +28,7 @@
   blackground-color: #ccffcc;
 }
 .btnClmn {
-  vertical-align: center;
+  vertical-align: middle;
 }
 .prceBtn {
   background: transparent;
@@ -42,7 +42,7 @@
 .prceBtn:hover {
   font-size: 25px;
   font-colour: white;
-  background-colour: red;
+  background-color: red;
   }
 
 .hoverBox {
