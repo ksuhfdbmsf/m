@@ -27,6 +27,10 @@
   padding-top: 15px;
   blackground-color: #ccffcc;
 }
+.prceBtn {
+  background-color: red;
+  border: 3px solid black;
+}
 .hoverBox {
   border-left: 6px solid #9900ff;
   padding-left: 4px;
