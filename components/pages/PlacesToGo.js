@@ -1,4 +1,4 @@
 var id;
 function prceBtn(element) {
-  element.innerHTML = "iuuhk";
+  element.style.backgroundcolor = red;
 }
