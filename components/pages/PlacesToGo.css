@@ -31,17 +31,18 @@
   vertical-align: center;
 }
 .prceBtn {
-  background-color: blue;
+  background: transparent;
   border: 3px solid black;
   text-align: center;
   width: 160px;
   height: 40px;
   font-size: 20px;
+  font-colour: black;
 }
 .prceBtn:hover {
-  width: 165px;
-  height: 45px;
-  font-size: 23px;
+  font-size: 25px;
+  font-colour: white;
+  background-colour: red;
   }
 
 .hoverBox {
