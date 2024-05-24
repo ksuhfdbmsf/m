@@ -17,7 +17,7 @@
 }
 .clmnContainer {
   display: grid;
-  grid-template-columns: 7fr 2fr 5fr;
+  grid-template-columns: 8fr 2fr 5fr;
   vertical-align: middle;
   padding: 45px;
   background-color: powderblue;
@@ -28,7 +28,6 @@
   blackground-color: #ccffcc;
 }
 .btnClmn {
-  display: flex;
   justify-content: center;
 }
 .prceBtn {
