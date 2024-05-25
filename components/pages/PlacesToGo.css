@@ -58,6 +58,6 @@
 .AuDropdown {
   display: none;
 }
-#Au:hover + .AuDropdown {
+.Au:hover + .AuDropdown {
   display: block;
 }
