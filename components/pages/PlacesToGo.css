@@ -53,11 +53,11 @@
 .dropdown {
   background-color: white;
   border: 2px solid #c9c9c9;
+  z-index: 2;
 }
 .AuDropdown {
   display: none;
 }
-.dropContainer:hover {
+.Au:hover + .AuDropdown + .dropContainer {
   display: block;
-  z-index: 2;
 }
