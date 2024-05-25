@@ -51,7 +51,6 @@
   padding-left: 4px;
 }
 .dropdown {
-  position: fixed;
   z-index: 2;
   background-color: white;
   border: 2px solid #c9c9c9;
