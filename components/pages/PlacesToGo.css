@@ -61,6 +61,6 @@
 .AuDropdown {
   display: none;
 }
-.Au:hover + .AuDropdown {
+.dropCont:hover + .AuDropdown {
   display: block;
 }
