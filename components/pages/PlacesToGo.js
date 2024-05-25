@@ -1,7 +1,7 @@
 var oldElm;
-function prceBtn(element, colour) {
+function prceBtn(id, colour) {
 //    oldElm.style.background = transparent;
-    element.style.background = colour;
-    element.innerHTML = oldElm;
-    oldElm = element;
+    document.getElementById(id).style.background = colour;
+    document.getElementById(id).innerHTML = oldElm;
+    oldElm = id;
 }
