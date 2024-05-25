@@ -51,16 +51,13 @@
   padding-left: 4px;
 }
 .dropdown {
-  z-index: 2;
   background-color: white;
   border: 2px solid #c9c9c9;
 }
 .AuDropdown {
   display: none;
 }
-.Au:hover + .AuDropdown {
-  display: block;
-}
 .dropContainer:hover {
   display: block;
+  z-index: 2;
 }
