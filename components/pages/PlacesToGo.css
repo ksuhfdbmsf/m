@@ -38,11 +38,11 @@
   width: 160px;
   height: 40px;
   font-size: 20px;
-  color: black;
+  color: grey;
   padding: 5px;
 }
 .prceBtn:hover {
-  color: white;
+  color: black;
   background-color: #9900ff;
   }
 
