@@ -66,3 +66,6 @@
 .au:hover + .AuDropdown {
   display: block;
 }
+.dropdown:hover {
+  display: block;
+}
