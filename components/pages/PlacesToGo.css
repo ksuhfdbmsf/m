@@ -63,7 +63,7 @@
   display: block;
 }
 .imgs {
-  height: 200px;
+  height: 1000px;
   display: flex;
   flex-flow: column wrap;
   align-items: flex-start;
