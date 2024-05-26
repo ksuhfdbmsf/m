@@ -56,12 +56,11 @@
   z-index: 2;
 }
 .au {
-  display: none;
 }
 .AuDropdown {
   display: none;
 }
-.au:hover {
+.au:hover .AuDropdown{
   display: block;
 }
 .dropdown:hover {
