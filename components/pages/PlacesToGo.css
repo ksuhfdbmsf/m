@@ -56,7 +56,7 @@
   z-index: 2;
 }
 .dropCont {
-  z-index: 3;
+  background-color: grey;
 }
 .AuDropdown {
   display: none;
