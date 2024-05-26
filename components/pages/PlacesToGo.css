@@ -43,7 +43,7 @@
 }
 .prceBtn:hover {
   color: black;
-  background-color: #9900ff;
+  background-color: #5987B5;
   }
 
 .hoverBox {
@@ -61,6 +61,6 @@
 .AuDropdown {
   display: none;
 }
-.dropCont:hover + .AuDropdown {
+.hoverBox:hover + .AuDropdown {
   display: block;
 }
