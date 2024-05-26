@@ -67,3 +67,8 @@
 .dropdown:hover {
   display: block;
 }
+.imgs {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
