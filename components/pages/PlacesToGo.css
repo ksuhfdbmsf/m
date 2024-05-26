@@ -54,16 +54,9 @@
   background-color: white;
   border: 2px solid #c9c9c9;
   z-index: 2;
-}
-.au {
-}
-.AuDropdown {
   display: none;
 }
-.au:hover .AuDropdown{
-  display: block;
-}
-.dropdown:hover {
+.food:hover .foodDropdown{
   display: block;
 }
 .imgs {
