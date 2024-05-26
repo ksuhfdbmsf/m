@@ -45,6 +45,9 @@
   color: black;
   background-color: #7CA1C5;
   }
+.prceInfo {
+  display: none;
+}
 .hoverBox {
   border-left: 6px solid #9900ff;
   padding-left: 4px;
