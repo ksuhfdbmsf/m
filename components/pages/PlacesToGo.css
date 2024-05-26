@@ -43,9 +43,8 @@
 }
 .prceBtn:hover {
   color: black;
-  background-color: #5987B5;
+  background-color: #7CA1C5;
   }
-
 .hoverBox {
   border-left: 6px solid #9900ff;
   padding-left: 4px;
@@ -55,12 +54,15 @@
   border: 2px solid #c9c9c9;
   z-index: 2;
 }
-.dropCont {
+.Au {
   background-color: grey;
 }
 .AuDropdown {
   display: none;
 }
 .hoverBox:hover + .AuDropdown {
+  display: block;
+}
+.Au:hover + .AuDropdown {
   display: block;
 }
