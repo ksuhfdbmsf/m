@@ -62,9 +62,13 @@
 .food:hover .foodDropdown{
   display: block;
 }
-.imgs {
+.imgsGrid {
   height: 1000px;
-  display: flex;
-  flex-flow: column wrap;
-  align-items: flex-start;
+  grid: 1f 2f 1f;
+}
+.img1f {
+  width: 200px;
+}
+.img2f {
+  width: 400px;
 }
