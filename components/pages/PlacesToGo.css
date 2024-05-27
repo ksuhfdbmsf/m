@@ -66,9 +66,7 @@
   height: 1000px;
   grid: 1f 2f 1f;
 }
-.img1f {
-  width: 200px;
-}
-.img2f {
-  width: 400px;
+.imgs {
+  width: 90%;
+  vertical-align: middle;
 }
